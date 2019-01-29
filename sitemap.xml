@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost/test_doxti/posts/home.html</loc>
+    <lastmod>2019-01-29T17:52:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/test_doxti/posts/page-2.html</loc>
+    <lastmod>2019-01-29T17:52:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost/test_doxti/categories.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/test_doxti/posts.html</loc>
+    <lastmod>2019-01-29T17:52:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/test_doxti/tags.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/test_doxti/</loc>
+    <lastmod>2019-01-29T17:52:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
